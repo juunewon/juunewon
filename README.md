@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=913EF0&size=30&lines=Hey!+It's+Juwon!;I'm+a+Passionate+Developer.;and+I'm+motivated+to+learn.;I+Love+Chanllenges!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=913EF0&size=30&lines=Hey!+It's+Juwon!;I'm+motivated+to+learn.;I+Love+Chanllenges!)](https://git.io/typing-svg)
 
 <!--
 **juunewon/juunewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
